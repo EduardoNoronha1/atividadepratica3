@@ -1,6 +1,6 @@
 {
-  "name": "atividadepratica300",
-  "version": "1.5.0",
+  "name": "atividadepratica3..",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
